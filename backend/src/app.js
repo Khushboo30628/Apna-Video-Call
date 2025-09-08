@@ -38,4 +38,3 @@ const start = async () => {
 
 start();
 
-// mongodb+srv://khushbooabdullah86_db_user:<db_password>@cluster0.jo7jdvf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
